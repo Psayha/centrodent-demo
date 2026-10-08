@@ -4,7 +4,7 @@
 Страница демонстрационная: закрыта от поиска (`noindex, nofollow`), форма никуда не отправляет данные, трекеров нет.
 
 - Страница: [`uslugi/implantaciya-zubov/index.html`](uslugi/implantaciya-zubov/index.html) — HTML, CSS и JS в одном файле.
-- Шрифты и фото: [`assets/`](assets/) — Geologica и Golos Text (лицензия OFL, только нужные символы), логотип и сжатые фото врачей с centrodent.su.
+- Шрифты и фото: [`assets/`](assets/) — Geologica и Golos Text (лицензия OFL, только нужные символы), логотипы и сжатые фото врачей, зубных техников и сотрудников с centrodent.su.
 - Скриншоты первого экрана: [`screenshots/mobile.png`](screenshots/mobile.png), [`screenshots/desktop.png`](screenshots/desktop.png).
 
 ## Как открыть локально
